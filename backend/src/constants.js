@@ -1,1 +1,1 @@
-export const DB_NAME ="todo"
+export const DB_NAME ="todo_app"
